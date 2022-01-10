@@ -18,6 +18,11 @@
                 logo_src: "/img/logo.png",
                 app_name: "Make Your Burger"
             }
+        },
+        watch: {
+            $route: function(to) {
+                document.title = to.meta.title
+            }
         }
     }
 </script>
