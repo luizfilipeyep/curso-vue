@@ -88,28 +88,8 @@
         "Pepino",
         "Tomate"
       ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
-      "nome": "Joseildo Reinaldo da Penha",
-      "carne": "Picanha",
-      "pao": "Integral",
-      "opcionais": [
-        "Bacon"
-      ],
       "status": "Finalizado",
-      "id": 2
-    },
-    {
-      "nome": "Jeane Pereira",
-      "carne": "Alcatra",
-      "pao": "Integral",
-      "opcionais": [
-        "Cebola roxa"
-      ],
-      "status": "Solicitado",
-      "id": 3
+      "id": 1
     },
     {
       "nome": "Jurandir",
@@ -121,6 +101,14 @@
       ],
       "status": "Em produção",
       "id": 4
+    },
+    {
+      "nome": "Ronaldinho Gaúcho",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 5
     }
   ]
 }
