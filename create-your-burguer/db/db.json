@@ -80,66 +80,36 @@
   "burgers": [
     {
       "nome": "Luiz Filipe",
-      "carne": "Picanha",
+      "carne": "Maminha",
       "pao": "Integral",
       "opcionais": [
-        "Bacon",
         "Cheddar",
-        "Tomate",
-        "Pepino"
+        "Bacon",
+        "Pepino",
+        "Tomate"
       ],
       "status": "Solicitado",
       "id": 1
     },
     {
-      "nome": "Roberto",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
+      "nome": "Joseildo Reinaldo da Penha",
+      "carne": "Picanha",
+      "pao": "Integral",
       "opcionais": [
-        "Bacon",
-        "Cebola roxa"
+        "Bacon"
       ],
       "status": "Solicitado",
       "id": 2
     },
     {
-      "nome": "Renato Sanchez",
-      "carne": "Veggie burger",
-      "pao": "Parmesão e Orégano",
+      "nome": "Jeane Pereira",
+      "carne": "Alcatra",
+      "pao": "Integral",
       "opcionais": [
-        "Cebola roxa",
-        "Cheddar"
+        "Cebola roxa"
       ],
       "status": "Solicitado",
       "id": 3
-    },
-    {
-      "nome": "Maria dos Anjos",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 4
-    },
-    {
-      "nome": "Jeane Pereira",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
-      "nome": "Joseildo Reinaldo da Penha",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 6
     }
   ]
 }
